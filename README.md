@@ -1,4 +1,4 @@
-## Written for the Johns Hopkins Long Term Care Facilities 
+## Written for the Johns Hopkins Long Term Care Facilities COVID Testing Team
 
 This script is to pull covid case data about long term care facilities from the maryland department of health website 
 
