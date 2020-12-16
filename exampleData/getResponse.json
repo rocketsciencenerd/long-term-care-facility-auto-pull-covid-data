@@ -1,0 +1,2690 @@
+{
+    "objectIdFieldName": "FID",
+    "uniqueIdField":
+    {
+        "name": "FID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "fields": [
+    {
+        "name": "Facility_Name",
+        "type": "esriFieldTypeString",
+        "alias": "Facility_Name",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 256,
+        "domain": null,
+        "defaultValue": null
+    },
+    {
+        "name": "County",
+        "type": "esriFieldTypeString",
+        "alias": "County",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 256,
+        "domain": null,
+        "defaultValue": null
+    },
+    {
+        "name": "Number_of_Staff_Cases",
+        "type": "esriFieldTypeInteger",
+        "alias": "Number_of_Staff_Cases",
+        "sqlType": "sqlTypeInteger",
+        "domain": null,
+        "defaultValue": null
+    },
+    {
+        "name": "Number_of_Resident_Cases",
+        "type": "esriFieldTypeInteger",
+        "alias": "Number_of_Resident_Cases",
+        "sqlType": "sqlTypeInteger",
+        "domain": null,
+        "defaultValue": null
+    },
+    {
+        "name": "Number_of_Resident_Deaths",
+        "type": "esriFieldTypeInteger",
+        "alias": "Number_of_Resident_Deaths",
+        "sqlType": "sqlTypeInteger",
+        "domain": null,
+        "defaultValue": null
+    },
+    {
+        "name": "Number_of_Staff_Deaths",
+        "type": "esriFieldTypeInteger",
+        "alias": "Number_of_Staff_Deaths",
+        "sqlType": "sqlTypeInteger",
+        "domain": null,
+        "defaultValue": null
+    },
+    {
+        "name": "Total_Cases",
+        "type": "esriFieldTypeInteger",
+        "alias": "Total_Cases",
+        "sqlType": "sqlTypeInteger",
+        "domain": null,
+        "defaultValue": null
+    },
+    {
+        "name": "Date",
+        "type": "esriFieldTypeDate",
+        "alias": "Date",
+        "sqlType": "sqlTypeTimestamp2",
+        "length": 8,
+        "domain": null,
+        "defaultValue": null
+    },
+    {
+        "name": "FID",
+        "type": "esriFieldTypeOID",
+        "alias": "FID",
+        "sqlType": "sqlTypeInteger",
+        "domain": null,
+        "defaultValue": null
+    }],
+    "features": [
+    {
+        "attributes":
+        {
+            "Facility_Name": "Adelphi Nursing and Rehabilitation",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 23,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 1,
+            "Total_Cases": 32,
+            "Date": 1588204800000,
+            "FID": 1
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "AlfredHouse Andrus",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 8,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 8,
+            "Date": 1588204800000,
+            "FID": 2
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Althea Woodland",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 9,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 14,
+            "Date": 1588204800000,
+            "FID": 3
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Anchorage Healthcare Center",
+            "County": "Wicomico",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 4
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Arbor Terrace Fulton",
+            "County": "Howard",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 5
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Arbor Terrace Waugh Chapel",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 5,
+            "Date": 1588204800000,
+            "FID": 6
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Arcola Health and Rehabilitation Center",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 11,
+            "Number_of_Resident_Cases": 11,
+            "Number_of_Resident_Deaths": 5,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 22,
+            "Date": 1588204800000,
+            "FID": 7
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Arden Court of Towson",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 8
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Arden Courts of Potomac",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 17,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 21,
+            "Date": 1588204800000,
+            "FID": 9
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Atria Manresa",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 7,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 8,
+            "Date": 1588204800000,
+            "FID": 10
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Atrium Village",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 16,
+            "Number_of_Resident_Deaths": 5,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 22,
+            "Date": 1588204800000,
+            "FID": 11
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Autumn Lake Healthcare at Bridgepark",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 12
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Autumn Lake Healthcare at Cherry Lane",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 9,
+            "Date": 1588204800000,
+            "FID": 13
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Autumn Lake Healthcare at Oakview",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 39,
+            "Number_of_Resident_Deaths": 4,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 43,
+            "Date": 1588204800000,
+            "FID": 14
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Autumn Lake Healthcare at Riverview",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 15
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Autumn Lake Kent County",
+            "County": "Kent",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 52,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 61,
+            "Date": 1588204800000,
+            "FID": 16
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Autumn Lake Pikesville",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 7,
+            "Number_of_Resident_Cases": 59,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 66,
+            "Date": 1588204800000,
+            "FID": 17
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Ballenger Creek - Genesis Healthcare",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 39,
+            "Number_of_Resident_Cases": 84,
+            "Number_of_Resident_Deaths": 11,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 123,
+            "Date": 1588204800000,
+            "FID": 18
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Baywoods of Annapolis",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 6,
+            "Date": 1588204800000,
+            "FID": 19
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Bedford Court",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 20
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Bel Air Health and Rehabilitation Center",
+            "County": "Harford",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 20,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 29,
+            "Date": 1588204800000,
+            "FID": 21
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Bel Pre Healthcare Center",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 7,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 8,
+            "Date": 1588204800000,
+            "FID": 22
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Berlin Nursing and Rehabilitation Center",
+            "County": "Worcester",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 5,
+            "Date": 1588204800000,
+            "FID": 23
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Bethesda Health and Rehab",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 15,
+            "Number_of_Resident_Cases": 15,
+            "Number_of_Resident_Deaths": 8,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 30,
+            "Date": 1588204800000,
+            "FID": 24
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Bradford Oaks Center",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 5,
+            "Date": 1588204800000,
+            "FID": 25
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Brighton Gardens of Tuckerman Lane",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 16,
+            "Number_of_Resident_Cases": 24,
+            "Number_of_Resident_Deaths": 8,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 40,
+            "Date": 1588204800000,
+            "FID": 26
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Brightview Fallsgrove-Rockville Senior Assisted Living and Memory Care",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 6,
+            "Date": 1588204800000,
+            "FID": 27
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Brightview Senior Living",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 28
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Brightview West End - Brightview Senior Living",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 8,
+            "Date": 1588204800000,
+            "FID": 29
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Brookdale Woodward Estates",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 5,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 1,
+            "Total_Cases": 7,
+            "Date": 1588204800000,
+            "FID": 30
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Brooke Grove Retirement Community",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 15,
+            "Number_of_Resident_Cases": 27,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 42,
+            "Date": 1588204800000,
+            "FID": 31
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Cadia Healthcare of Springbrook, MD",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 15,
+            "Number_of_Resident_Cases": 13,
+            "Number_of_Resident_Deaths": 4,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 28,
+            "Date": 1588204800000,
+            "FID": 32
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Cadia Healthcare Wheaton",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 13,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 17,
+            "Date": 1588204800000,
+            "FID": 33
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Cadia Hyattsville",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 13,
+            "Number_of_Resident_Deaths": 4,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 22,
+            "Date": 1588204800000,
+            "FID": 34
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Calvert County Nursing Center",
+            "County": "Calvert",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 35
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Calvert Manor Healthcare Center",
+            "County": "Cecil",
+            "Number_of_Staff_Cases": 16,
+            "Number_of_Resident_Cases": 53,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 69,
+            "Date": 1588204800000,
+            "FID": 36
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Carriage Hill",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 14,
+            "Number_of_Resident_Cases": 12,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 26,
+            "Date": 1588204800000,
+            "FID": 37
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Carroll Lutheran Village",
+            "County": "Carroll",
+            "Number_of_Staff_Cases": 11,
+            "Number_of_Resident_Cases": 38,
+            "Number_of_Resident_Deaths": 8,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 49,
+            "Date": 1588204800000,
+            "FID": 38
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Cedar Creek Memory Care Homes- Maple Ridge",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 5,
+            "Number_of_Resident_Deaths": 4,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 14,
+            "Date": 1588204800000,
+            "FID": 39
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Chapel Hill Nursing and Rehabilitation Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 40
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Charlestown Senior Living Community",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 7,
+            "Date": 1588204800000,
+            "FID": 41
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Chesapeake Shores",
+            "County": "St. Mary's",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 42
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Chesapeake Treatment Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 43
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Citizens Care and Rehabilitation Center of Frederick",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 7,
+            "Number_of_Resident_Cases": 11,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 18,
+            "Date": 1588204800000,
+            "FID": 44
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Clinton Nursing and Rehabilitation Center",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 26,
+            "Number_of_Resident_Cases": 18,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 44,
+            "Date": 1588204800000,
+            "FID": 45
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Collingswood Rehabilitation and Healthcare Center",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 10,
+            "Number_of_Resident_Cases": 15,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 25,
+            "Date": 1588204800000,
+            "FID": 46
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Collington , The Potomac - Assisted Living",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 47
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Corsica Hills Center",
+            "County": "Queen Anne's",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 48
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Country Meadows of Frederick",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 18,
+            "Number_of_Resident_Cases": 23,
+            "Number_of_Resident_Deaths": 8,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 41,
+            "Date": 1588204800000,
+            "FID": 49
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Crescent Cities",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 4,
+            "Date": 1588204800000,
+            "FID": 50
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Crofton Care and Rehabilitation",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 43,
+            "Number_of_Resident_Deaths": 9,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 49,
+            "Date": 1588204800000,
+            "FID": 51
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Cumberland Healthcare Center",
+            "County": "Allegany",
+            "Number_of_Staff_Cases": 16,
+            "Number_of_Resident_Cases": 73,
+            "Number_of_Resident_Deaths": 6,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 89,
+            "Date": 1588204800000,
+            "FID": 52
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Diakon Senior Living - Hagerstown Robinwood Campus",
+            "County": "Washington",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 53
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Doctors Community Rehabilitation and Patient Care Center",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 17,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 19,
+            "Date": 1588204800000,
+            "FID": 54
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Edenton Retirement Community",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 55
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Ellicott City Healthcare Center",
+            "County": "Howard",
+            "Number_of_Staff_Cases": 29,
+            "Number_of_Resident_Cases": 89,
+            "Number_of_Resident_Deaths": 10,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 118,
+            "Date": 1588204800000,
+            "FID": 56
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Esther's Place at Pinewood",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 8,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 9,
+            "Date": 1588204800000,
+            "FID": 57
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Esther's Place At the Park",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 19,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 25,
+            "Date": 1588204800000,
+            "FID": 58
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Fairfield Nursing and Rehabilitation Center",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 23,
+            "Number_of_Resident_Cases": 26,
+            "Number_of_Resident_Deaths": 6,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 49,
+            "Date": 1588204800000,
+            "FID": 59
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Fairhaven",
+            "County": "Carroll",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 18,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 22,
+            "Date": 1588204800000,
+            "FID": 60
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Forest Haven Nursing & Rahab Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 61
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Forest Hill Health & Rehab Center",
+            "County": "Harford",
+            "Number_of_Staff_Cases": 20,
+            "Number_of_Resident_Cases": 62,
+            "Number_of_Resident_Deaths": 4,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 82,
+            "Date": 1588204800000,
+            "FID": 62
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Forestville Healthcare Center",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 15,
+            "Number_of_Resident_Deaths": 5,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 24,
+            "Date": 1588204800000,
+            "FID": 63
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Fox Chase Rehabilitation & Nursing",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 9,
+            "Number_of_Resident_Deaths": 4,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 12,
+            "Date": 1588204800000,
+            "FID": 64
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Frederick Health and Rehabilitation Center",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 20,
+            "Number_of_Resident_Cases": 26,
+            "Number_of_Resident_Deaths": 13,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 46,
+            "Date": 1588204800000,
+            "FID": 65
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Frederick Villa Nursing and Rehabilitation Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 33,
+            "Number_of_Resident_Cases": 67,
+            "Number_of_Resident_Deaths": 8,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 100,
+            "Date": 1588204800000,
+            "FID": 66
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Friends House Retirement Community",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 12,
+            "Number_of_Resident_Cases": 14,
+            "Number_of_Resident_Deaths": 4,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 26,
+            "Date": 1588204800000,
+            "FID": 67
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Future Care Capitol Region",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 8,
+            "Number_of_Resident_Cases": 20,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 28,
+            "Date": 1588204800000,
+            "FID": 68
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Future Care Charles Village",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 8,
+            "Number_of_Resident_Cases": 69,
+            "Number_of_Resident_Deaths": 7,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 77,
+            "Date": 1588204800000,
+            "FID": 69
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Future Care Irvington",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 20,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 23,
+            "Date": 1588204800000,
+            "FID": 70
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Future Care Pineview",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 6,
+            "Date": 1588204800000,
+            "FID": 71
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Canton Harbor",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 10,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 14,
+            "Date": 1588204800000,
+            "FID": 72
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Futurecare Cherrywood",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 8,
+            "Number_of_Resident_Cases": 15,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 23,
+            "Date": 1588204800000,
+            "FID": 73
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Chesapeake",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 43,
+            "Number_of_Resident_Cases": 71,
+            "Number_of_Resident_Deaths": 13,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 114,
+            "Date": 1588204800000,
+            "FID": 74
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Cold Spring",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 13,
+            "Number_of_Resident_Cases": 36,
+            "Number_of_Resident_Deaths": 6,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 49,
+            "Date": 1588204800000,
+            "FID": 75
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Courtland",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 11,
+            "Number_of_Resident_Deaths": 4,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 17,
+            "Date": 1588204800000,
+            "FID": 76
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Good Samaritan",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 10,
+            "Number_of_Resident_Cases": 24,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 34,
+            "Date": 1588204800000,
+            "FID": 77
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Homewood",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 78
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Lochearn",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 66,
+            "Number_of_Resident_Cases": 154,
+            "Number_of_Resident_Deaths": 14,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 220,
+            "Date": 1588204800000,
+            "FID": 79
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Northpoint",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 80
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Old Court",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 37,
+            "Number_of_Resident_Cases": 72,
+            "Number_of_Resident_Deaths": 8,
+            "Number_of_Staff_Deaths": 1,
+            "Total_Cases": 109,
+            "Date": 1588204800000,
+            "FID": 81
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "FutureCare Pineview",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 82
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Genesis Catonsville Commons",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 12,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 16,
+            "Date": 1588204800000,
+            "FID": 83
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Genesis Cromwell Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 25,
+            "Number_of_Resident_Deaths": 6,
+            "Number_of_Staff_Deaths": 1,
+            "Total_Cases": 31,
+            "Date": 1588204800000,
+            "FID": 84
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Genesis La Plata",
+            "County": "Charles",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 4,
+            "Date": 1588204800000,
+            "FID": 85
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Genesis Loch Raven",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 18,
+            "Number_of_Resident_Cases": 69,
+            "Number_of_Resident_Deaths": 7,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 87,
+            "Date": 1588204800000,
+            "FID": 86
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Genesis Long Green Center",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 87
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Genesis Multi-Medical Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 88
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Genesis Severna Park",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 4,
+            "Date": 1588204800000,
+            "FID": 89
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Genesis Waldorf",
+            "County": "Charles",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 90
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Genesis Waugh Chapel",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 12,
+            "Number_of_Resident_Cases": 41,
+            "Number_of_Resident_Deaths": 6,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 53,
+            "Date": 1588204800000,
+            "FID": 91
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Ginger Cove",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 13,
+            "Number_of_Resident_Cases": 5,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 18,
+            "Date": 1588204800000,
+            "FID": 92
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Glade Valley Center - Genesis Healthcare",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 93
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Gull Creek",
+            "County": "Worcester",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 94
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "HeartFields Assisted Living at Frederick",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 18,
+            "Number_of_Resident_Cases": 9,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 1,
+            "Total_Cases": 27,
+            "Date": 1588204800000,
+            "FID": 95
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Hebrew Home of Greater Washington",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 17,
+            "Number_of_Resident_Cases": 20,
+            "Number_of_Resident_Deaths": 5,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 37,
+            "Date": 1588204800000,
+            "FID": 96
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Heritage Center Genesis Eldercare",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 15,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 20,
+            "Date": 1588204800000,
+            "FID": 97
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Heritage Harbour Health and Rehabilitation Center",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 20,
+            "Number_of_Resident_Deaths": 5,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 25,
+            "Date": 1588204800000,
+            "FID": 98
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Hillhaven Assisted Living, Nursing and Rehabilitation Center",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 12,
+            "Number_of_Resident_Cases": 30,
+            "Number_of_Resident_Deaths": 13,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 42,
+            "Date": 1588204800000,
+            "FID": 99
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Homewood at Frederick",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 23,
+            "Number_of_Resident_Cases": 17,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 40,
+            "Date": 1588204800000,
+            "FID": 100
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Homewood Hilltop",
+            "County": "Washington",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 4,
+            "Date": 1588204800000,
+            "FID": 101
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Hyattsville Health and Rehab",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 24,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 33,
+            "Date": 1588204800000,
+            "FID": 102
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Ingleside at King Farm",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 103
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Inspiration Memory Care Linthicum",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 7,
+            "Number_of_Resident_Cases": 14,
+            "Number_of_Resident_Deaths": 6,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 21,
+            "Date": 1588204800000,
+            "FID": 104
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Kensington Healthcare Center",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 8,
+            "Number_of_Resident_Cases": 39,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 47,
+            "Date": 1588204800000,
+            "FID": 105
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Kensington Park",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 19,
+            "Number_of_Resident_Cases": 24,
+            "Number_of_Resident_Deaths": 7,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 43,
+            "Date": 1588204800000,
+            "FID": 106
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Keswick Multi-Care Center",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 9,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 12,
+            "Date": 1588204800000,
+            "FID": 107
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "King David Nursing and Rehabilitation Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 108
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Largo Nursing & Rehabilitation Center",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 109
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Larkin Chase Center",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 17,
+            "Number_of_Resident_Cases": 60,
+            "Number_of_Resident_Deaths": 9,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 77,
+            "Date": 1588204800000,
+            "FID": 110
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Layhill Center",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 10,
+            "Number_of_Resident_Deaths": 6,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 13,
+            "Date": 1588204800000,
+            "FID": 111
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Levindale Hebrew Geriatric Center and Hospital",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 29,
+            "Number_of_Resident_Cases": 52,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 81,
+            "Date": 1588204800000,
+            "FID": 112
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Lorien Columbia",
+            "County": "Howard",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 6,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 8,
+            "Date": 1588204800000,
+            "FID": 113
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Lorien Elkridge",
+            "County": "Howard",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 8,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 8,
+            "Date": 1588204800000,
+            "FID": 114
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Lorien Mays Chapel",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 115
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Manor Care Roland Park",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 4,
+            "Date": 1588204800000,
+            "FID": 116
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Manor Care Silver Spring",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 17,
+            "Number_of_Resident_Cases": 58,
+            "Number_of_Resident_Deaths": 16,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 75,
+            "Date": 1588204800000,
+            "FID": 117
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Manor Care Wheaton",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 12,
+            "Number_of_Resident_Cases": 56,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 68,
+            "Date": 1588204800000,
+            "FID": 118
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "ManorCare Health Services - Chevy Chase",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 5,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 8,
+            "Date": 1588204800000,
+            "FID": 119
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "ManorCare Health Services Bethesda",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 4,
+            "Date": 1588204800000,
+            "FID": 120
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "ManorCare Health Services- Rossville",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 32,
+            "Number_of_Resident_Deaths": 5,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 41,
+            "Date": 1588204800000,
+            "FID": 121
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "ManorCare Health Services- Towson",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 4,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 10,
+            "Date": 1588204800000,
+            "FID": 122
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "ManorCare Potomac",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 10,
+            "Number_of_Resident_Cases": 11,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 21,
+            "Date": 1588204800000,
+            "FID": 123
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Maplewood of Park Place, Sunrise Senior Living",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 5,
+            "Date": 1588204800000,
+            "FID": 124
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Maria Health Care Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 125
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Marley Neck Health and Rehabilitation Center",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 9,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 14,
+            "Date": 1588204800000,
+            "FID": 126
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Maryland Masonic Homes",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 10,
+            "Number_of_Resident_Cases": 18,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 28,
+            "Date": 1588204800000,
+            "FID": 127
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Meadow Park Rehabilitation and Healthcare",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 15,
+            "Number_of_Resident_Cases": 18,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 33,
+            "Date": 1588204800000,
+            "FID": 128
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Montgomery Village Health Care Center",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 11,
+            "Number_of_Resident_Cases": 32,
+            "Number_of_Resident_Deaths": 8,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 43,
+            "Date": 1588204800000,
+            "FID": 129
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "New Life Health Living",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 4,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 6,
+            "Date": 1588204800000,
+            "FID": 130
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "North Arundel Health and Rehabilitation Center",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 8,
+            "Number_of_Resident_Cases": 7,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 15,
+            "Date": 1588204800000,
+            "FID": 131
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Northampton Manor Nursing and Rehabilitation Center",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 13,
+            "Number_of_Resident_Cases": 30,
+            "Number_of_Resident_Deaths": 5,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 43,
+            "Date": 1588204800000,
+            "FID": 132
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Nursing and Rehab Center at Stadium Place",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 133
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Oak Crest",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 11,
+            "Number_of_Resident_Cases": 13,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 24,
+            "Date": 1588204800000,
+            "FID": 134
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Oak Manor Center",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 8,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 13,
+            "Date": 1588204800000,
+            "FID": 135
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Oakwood Care Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 136
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Olney Memory Care",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 137
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Orchard Hill Health and Rehab",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 11,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 16,
+            "Date": 1588204800000,
+            "FID": 138
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Patapsco Valley Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 7,
+            "Number_of_Resident_Cases": 23,
+            "Number_of_Resident_Deaths": 6,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 30,
+            "Date": 1588204800000,
+            "FID": 139
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Patuxent River Health and Rehabilitation Center",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 8,
+            "Number_of_Resident_Cases": 5,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 13,
+            "Date": 1588204800000,
+            "FID": 140
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Peak Health Caton Manor",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 28,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 34,
+            "Date": 1588204800000,
+            "FID": 141
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Pleasant View Nursing Home",
+            "County": "Carroll",
+            "Number_of_Staff_Cases": 41,
+            "Number_of_Resident_Cases": 83,
+            "Number_of_Resident_Deaths": 28,
+            "Number_of_Staff_Deaths": 1,
+            "Total_Cases": 124,
+            "Date": 1588204800000,
+            "FID": 142
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Post Acute Care Center",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 27,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 32,
+            "Date": 1588204800000,
+            "FID": 143
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Potomac Valley Rehabilitation and Healthcare Center",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 10,
+            "Number_of_Resident_Cases": 18,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 28,
+            "Date": 1588204800000,
+            "FID": 144
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Regency Care of Silver Spring",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 30,
+            "Number_of_Resident_Cases": 50,
+            "Number_of_Resident_Deaths": 10,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 80,
+            "Date": 1588204800000,
+            "FID": 145
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Residences at Vantage Point",
+            "County": "Howard",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 6,
+            "Date": 1588204800000,
+            "FID": 146
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Restore Health Rehabilitation Center",
+            "County": "Charles",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 7,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 10,
+            "Date": 1588204800000,
+            "FID": 147
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Riderwood - Arbor Ridge",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 36,
+            "Number_of_Resident_Cases": 47,
+            "Number_of_Resident_Deaths": 8,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 83,
+            "Date": 1588204800000,
+            "FID": 148
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Ridgeway Manor",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 149
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Rockville Nursing Home",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 15,
+            "Number_of_Resident_Cases": 36,
+            "Number_of_Resident_Deaths": 13,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 51,
+            "Date": 1588204800000,
+            "FID": 150
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Roland Park Place",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 151
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sagepoint Nursing & Rehabilitation",
+            "County": "Charles",
+            "Number_of_Staff_Cases": 32,
+            "Number_of_Resident_Cases": 97,
+            "Number_of_Resident_Deaths": 34,
+            "Number_of_Staff_Deaths": 1,
+            "Total_Cases": 129,
+            "Date": 1588204800000,
+            "FID": 152
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Salisbury Rehabilitation and Nursing Center",
+            "County": "Wicomico",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 5,
+            "Date": 1588204800000,
+            "FID": 153
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Seabury at Springvale Terrace",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 154
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Shady Grove Center for Nursing & Rehabilitation",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 1,
+            "Total_Cases": 9,
+            "Date": 1588204800000,
+            "FID": 155
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sligo Creek Center - Genesis Healthcare",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 5,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 7,
+            "Date": 1588204800000,
+            "FID": 156
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Somerford House Frederick",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 6,
+            "Date": 1588204800000,
+            "FID": 157
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "South River Healthcare Center",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 12,
+            "Number_of_Resident_Cases": 19,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 31,
+            "Date": 1588204800000,
+            "FID": 158
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Spa Creek Center",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 159
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Stella Maris",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 8,
+            "Number_of_Resident_Cases": 12,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 20,
+            "Date": 1588204800000,
+            "FID": 160
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sterling Care Frostburg Village",
+            "County": "Allegany",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 161
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sterling Care South Mountain",
+            "County": "Washington",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 3,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 7,
+            "Date": 1588204800000,
+            "FID": 162
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Summit Park Health & Rehabilitation Center",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 6,
+            "Date": 1588204800000,
+            "FID": 163
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sun Valley Assisted Living",
+            "County": "Carroll",
+            "Number_of_Staff_Cases": 7,
+            "Number_of_Resident_Cases": 16,
+            "Number_of_Resident_Deaths": 4,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 23,
+            "Date": 1588204800000,
+            "FID": 164
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sunrise at Montgomery Village",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 165
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sunrise of Chevy Chase",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 4,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 8,
+            "Date": 1588204800000,
+            "FID": 166
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sunrise of Columbia",
+            "County": "Howard",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 11,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 16,
+            "Date": 1588204800000,
+            "FID": 167
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sunrise of Pikesville",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 168
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sunrise of Rockville",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 0,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 3,
+            "Date": 1588204800000,
+            "FID": 169
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sunrise of Severna Park",
+            "County": "Anne Arundel",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 1,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 170
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sunrise Senior Living",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 1,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 1,
+            "Date": 1588204800000,
+            "FID": 171
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Sunrise Senior Living - Sunrise at Fox Hill",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 5,
+            "Number_of_Resident_Cases": 4,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 9,
+            "Date": 1588204800000,
+            "FID": 172
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Symphony Manor Baltimore",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 173
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "The Charleston Senior Community",
+            "County": "Charles",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 9,
+            "Number_of_Resident_Deaths": 5,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 9,
+            "Date": 1588204800000,
+            "FID": 174
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "The Landing of Silver Spring",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 9,
+            "Number_of_Resident_Cases": 13,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 22,
+            "Date": 1588204800000,
+            "FID": 175
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "The Neighborhoods at St. Elizabeth Rehabilitation & Nursing Center",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 4,
+            "Number_of_Resident_Cases": 11,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 15,
+            "Date": 1588204800000,
+            "FID": 176
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "The Resort at Chester Manor",
+            "County": "Kent",
+            "Number_of_Staff_Cases": 1,
+            "Number_of_Resident_Cases": 5,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 6,
+            "Date": 1588204800000,
+            "FID": 177
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "The W Assisted LIving",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 0,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 2,
+            "Date": 1588204800000,
+            "FID": 178
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Tranquility of Frederickstowne",
+            "County": "Frederick",
+            "Number_of_Staff_Cases": 2,
+            "Number_of_Resident_Cases": 2,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 4,
+            "Date": 1588204800000,
+            "FID": 179
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Tribute at Black Hill",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 7,
+            "Number_of_Resident_Cases": 4,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 11,
+            "Date": 1588204800000,
+            "FID": 180
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Villa Rosa Nursing & Rehabilitation Center",
+            "County": "Prince George's",
+            "Number_of_Staff_Cases": 3,
+            "Number_of_Resident_Cases": 10,
+            "Number_of_Resident_Deaths": 0,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 13,
+            "Date": 1588204800000,
+            "FID": 181
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Village at Augsburg",
+            "County": "Baltimore County",
+            "Number_of_Staff_Cases": 7,
+            "Number_of_Resident_Cases": 14,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 21,
+            "Date": 1588204800000,
+            "FID": 182
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Village at Rockville",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 13,
+            "Number_of_Resident_Cases": 17,
+            "Number_of_Resident_Deaths": 3,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 30,
+            "Date": 1588204800000,
+            "FID": 183
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Westgate Hills Rehabilitation & Healthcare Center",
+            "County": "Baltimore City",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 14,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 20,
+            "Date": 1588204800000,
+            "FID": 184
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Westminster Healthcare Center",
+            "County": "Carroll",
+            "Number_of_Staff_Cases": 6,
+            "Number_of_Resident_Cases": 48,
+            "Number_of_Resident_Deaths": 2,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 54,
+            "Date": 1588204800000,
+            "FID": 185
+        }
+    },
+    {
+        "attributes":
+        {
+            "Facility_Name": "Wilson Health Care Center at Asbury Methodist Village",
+            "County": "Montgomery",
+            "Number_of_Staff_Cases": 16,
+            "Number_of_Resident_Cases": 47,
+            "Number_of_Resident_Deaths": 12,
+            "Number_of_Staff_Deaths": 0,
+            "Total_Cases": 63,
+            "Date": 1588204800000,
+            "FID": 186
+        }
+    }]
+}
