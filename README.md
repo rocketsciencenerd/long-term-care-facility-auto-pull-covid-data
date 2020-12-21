@@ -1,6 +1,6 @@
 ## Written for the Johns Hopkins Long Term Care Facilities COVID Testing Team
 
-This script is to pull covid case data about long term care facilities from the maryland department of health website 
+This script is to pull covid case data about long term care facilities from the maryland department of health website (https://coronavirus.maryland.gov/)
 
 This script is meant to run from the terminal applicaiton of a mac 
 
